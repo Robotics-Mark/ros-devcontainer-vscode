@@ -27,7 +27,7 @@ Preconfigured simulation environment currently includes: Flatland, TurtleBot3, A
 
 See the following index for list of current simulators:
 
-https://github.com/devrt/simulator-index/blob/master/index.yaml
+https://github.com/Robotics-Mark/simulator-index/blob/master/index.yaml
 
 If you want any other simulator, let us know by submitting the issue:
 
